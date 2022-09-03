@@ -1,0 +1,59 @@
+[
+  {
+    "id": 0,
+    "customerName": "jacob",
+    "phoneNumber":  "111-111-1111",
+    "address": "111 w street",
+    "loanAmount": "75000",
+    "interest": "4.25",
+    "loanTermYears": "30",
+    "loanType": "conventional",
+    "description": "this is a loan"
+  },
+
+{
+  "id": 1,
+    "customerName": "james",
+    "phoneNumber":  "222-222-2222",
+    "address": "222 w street",
+    "loanAmount": "95000",
+    "interest": "4.45",
+    "loanTermYears": "30",
+    "loanType":"conventional",
+    "description":"this is a loan"
+  },
+  
+  {
+    "id": 0,
+    "customerName": "jimmy",
+    "phoneNumber":  "333-333-3333",
+    "address": "333 w street",
+    "loanAmount": "100000",
+    "interest": "4.75",
+    "loanTermYears": "30",
+    "loanType":"conventional",
+    "description":"this is a loan"
+  },
+  {
+    "id": 0,
+    "customerName": "jacki",
+    "phoneNumber":  "444-444-4444",
+    "address": "444 w street",
+    "loanAmount": "205000",
+    "interest": "4.95",
+    "loanTermYears": "15",
+    "loanType":"conventional",
+    "description":"this is a loan"
+  },
+  {
+    "id": 4,
+    "customerName": "jose",
+    "phoneNumber":  "555-555-5555",
+    "address": "555 w street",
+    "loanAmount": "750000",
+    "interest": "4.15",
+    "loanTermYears": "30",
+    "loanType":"conventional",
+    "description":"this is a loan"
+  }
+]
